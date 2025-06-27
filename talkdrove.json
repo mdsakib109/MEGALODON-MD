@@ -1,6 +1,6 @@
 
 {
-    "bot-name": "MEGALODON-MD",
+    "bot-name": "YoUr Sakib",
     "description": "Whiskey Sockets Baileys Whatsapp bot by DybyTech",
     "logo": "https://files.catbox.moe/frns4k.jpg",
     "keywords": ["bot"],
@@ -9,7 +9,7 @@
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with MEGALODON~MD~  or get session id from here,  https://meg-lodon-session.onrender.com/pair",
+        "description": "MEGALODON~MD~pZIjGJpZ#ajYUqkeNwDXp4ytwAIrAn4qQU8cnmyFgDMm9V9lXEck",
         "value":"",
         "required": true
         
@@ -82,7 +82,7 @@
      }, 
     
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "সাঁপুঁডেঁ বাঁবাঁ.",
       "required": false,
       "value": "ᴅʏʙʏ ᴛᴇᴄʜ*"
 }, 
@@ -90,14 +90,14 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "50948336180"
+      "value": "8801915761241"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝐌𝐄𝐆𝐀𝐋𝐎𝐃𝐎𝐍-𝐌𝐃"
+      "value": "YoUr sakib"
 
       }, 
 
